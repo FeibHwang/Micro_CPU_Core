@@ -6,8 +6,12 @@ This project is the design and verification of the Micro_baby architecture based
 
 The project includes two main parts: The architecture and the simulator
 
+Micro_baby structure
+---
 The Micro_baby architecture is written in VHDL, it's been tested and verified on Modelsim
 
+Micro_baby simulator
+---
 The Micro_baby simulator is written with C#, it includes 4 parts:
   1. The Assembler alone with specially designed assembly languade
   2. The Simulation Unit to simulate the Micro_baby processing sequence
